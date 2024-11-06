@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105983233052",
+    "project_id": "krishinirnay",
+    "storage_bucket": "krishinirnay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105983233052:android:ae7d619dddd9c0745c23d9",
+        "android_client_info": {
+          "package_name": "com.example.nirnay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSbwbinx5QlaQkP4Yb02pWm1NO8x0zy_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
