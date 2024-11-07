@@ -2,6 +2,7 @@
 
 Application Screenshots - 
 1. https://github.com/HarsimranKBedi/nirnay/blob/e6722dac07ba5f391b1c518588a6932682cce7a1/WhatsApp%20Image%202024-11-07%20at%2003.54.29.jpeg
+2. https://github.com/HarsimranKBedi/nirnay/blob/d455b4379042a3ad4859ee302a7a125d2e9039bc/WhatsApp%20Image%202024-11-07%20at%2003.54.31%20(1).jpeg
 
 ## Getting Started
 
